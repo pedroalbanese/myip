@@ -3,9 +3,9 @@
 [![GitHub downloads](https://img.shields.io/github/downloads/pedroalbanese/myip/total.svg?logo=github&logoColor=white)](https://github.com/pedroalbanese/myip/releases)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/pedroalbanese/myip)](https://github.com/pedroalbanese/myip/releases)
 
-Command-line WhatsMyIP Tool written in AutoIt3
+### Command-line WhatsMyIP Tool written in AutoIt3
 
-### Synopsis  
+## Synopsis  
 ```bat
 WhatsMyIP CLI v1.00 - ALBANESE Lab © 2018-2019
 

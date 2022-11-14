@@ -9,8 +9,8 @@
 ```bat
 WhatsMyIP CLI v1.00 - ALBANESE Lab © 2018-2019
 
-   Your internal IP address is: 192.168.15.4
-   Your external IP address is: 177.102.181.77
+   Your internal IP address is: 192.168.15.3
+   Your external IP address is: 177.102.181.71
 
 Use the parameters -i|e to pass just one and another to STDOUT.
 

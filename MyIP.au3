@@ -18,7 +18,6 @@ Local $sPublicIP = _GetIP()
 
 If $CmdLineRaw == "" Then
 	ConsoleWrite("WhatsMyIP CLI v1.00 - ALBANESE Lab " & Chr(184) & " 2018-2019" & @CRLF & @CRLF)
-
 	ConsoleWrite("   Your internal IP address is: " & $sLocalIP & @CRLF)
 	ConsoleWrite("   Your external IP address is: " & $sPublicIP & @CRLF & @CRLF)
 	ConsoleWrite("Use the parameters -i|e to pass just one and another to STDOUT." & @CRLF & @CRLF)

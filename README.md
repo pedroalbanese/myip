@@ -3,6 +3,10 @@
 [![GitHub downloads](https://img.shields.io/github/downloads/pedroalbanese/myip/total.svg?logo=github&logoColor=white)](https://github.com/pedroalbanese/myip/releases)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/pedroalbanese/myip)](https://github.com/pedroalbanese/myip/releases)
 
+<div align="center">
+ <img src="MyIP.png" width="25%" height="25%"></img>
+</div>
+
 ### Command-line WhatsMyIP Tool written in AutoIt3
 
 ## Synopsis  
